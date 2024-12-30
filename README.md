@@ -7,7 +7,7 @@ Make an (Open) Bottle Opener for yourself and your buddies
 
 Sometimes when using SendCutSend you only need a $10 part, but need to spend $30+ dollars for the min spend requirement.
 
-Make some bottle openers! Make it for yourself, and your buddies!
+Make some bottle openers! Make it for yourself, and your buddies! Stockpile them for stocking stuffer gifts
 
 # How to use this
 Go to the repo, download the .dxf file and upload it to SendCutSend to get those numbers up!
